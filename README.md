@@ -1,8 +1,8 @@
 # EX NO 1: Cloud-account-set-up-and-services
 ~~~
-Name : MOHAMMED FAIZAL J
+Name : SANTHOSH L
 
-Reg no: 212222100027
+Reg no: 212222100046
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
